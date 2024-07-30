@@ -1,0 +1,2 @@
+Um sistema vai entrar na planilha e colocar as informações que estão nela e
+inserir em um texto, (.txt ou arquivo word)
